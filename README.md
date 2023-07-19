@@ -2,6 +2,8 @@
 
 ## Test A
 
+Turn on the C64, and wait at least 10 minutes before starting the test.
+
 LOAD"TAP204060.PRG"   on a **real** C64.
 Connect a **real** "datasette" (Commodore C2N).
 Reset the tape counter to 000.
@@ -15,6 +17,8 @@ Dump the tape with U2+.
 Save the two files "capture.tap" and "dump1.tap"
 
 ## Test B
+
+Turn on the C64, and wait at least 10 minutes before starting the test.
 
 Connect a **real** "datasette" (Commodore C2N).
 Reset the tape counter to 000.
