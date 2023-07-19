@@ -23,9 +23,22 @@ Turn on the C64, and wait at least 10 minutes before starting the test.
 
 Connect a **real** "datasette" (Commodore C2N).  
 Reset the tape counter to 000.  
+
 Write the file "tap204060.tap" to tape using the U2+  
 Rewind the tape to 000 (where you started recording),  
 Dump the tape with U2+.  
 Save the file "dump2.tap".  
-  
+
+## Test C
+
+Turn on the C64, and wait at least 10 minutes before starting the test.
+
+Connect a **real** "datasette" (Commodore C2N).  
+Reset the tape counter to 000.  
+
+Write the file "EvilDead_REMASTERED.tap" to tape using the U2+  
+Rewind the tape to 000 (where you started recording),  
+Dump the tape with U2+.  
+Save the file "dump3.tap".  
+
 ### Analyze results.  
